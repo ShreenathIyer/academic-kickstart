@@ -35,7 +35,7 @@ interests = [
 [[education.courses]]
   course = "Bachelor's in Computer Science"
   institution = "University of Pune"
-  year = 2011
+  year = 2015
 
 # [[education.courses]]
 #   course = "BSc in Artificial Intelligence"
@@ -57,10 +57,10 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/dope_inder"
 
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/iyershreenath"
 
 [[social]]
   icon = "github"
@@ -76,4 +76,8 @@ interests = [
 
 +++
 
-I am a second year Master's student at the University of California, Davis studying Computer Science. I am also an Amazon Alexa Prize 2018 winner. 
+I am a second year Master's student studying Computer Science at the University of California, Davis. My main areas of research include Distributed Systems and Blockchains. I am also an Amazon Alexa Prize 2018 winner. 
+
+I have worked for over two years at FIS Global as a Product Development Engineer with a special focus on Continuous Integration and DevOps. 
+
+When I am not working, I am either watching soccer or playing soccer or trying to figure out why people like going to the gym so much. 
