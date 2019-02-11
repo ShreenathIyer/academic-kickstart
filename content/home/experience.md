@@ -19,27 +19,46 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Technical Marketing Engineer"
+  company = "Nokia Nuage Networks"
+  company_url = "http://www.nuagenetworks.net/"
+  location = "Mountain View, California"
+  date_start = "2018-06-18"
+  date_end = "2018-08-24"
   description = """
-  Responsibilities include:
+  • Implemented the automated creation and deployment of virtual machines enabled with OpenStack Queens on NuageX for SmartNIC testing.
+
+  • Updated existing Ansible roles and playbooks for Grafana, Zabbix, Ceph, InfluxDb and introduced new ones for ElasticSearch on NuageX Partner Program.
+
+  • Automated conversion of markdown documents to their PDF format in CI adhering to Nuage guidelines for Partner Program clients using GitLab.
   
-  * Analysing
-  * Modelling
-  * Deploying
+  Responsibilities included:
+  
+  * Programming
+  * Designing
+  * Collaboration
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Product Development Engineer"
+  company = "FIS Global"
+  company_url = "https://www.fisglobal.com/"
+  location = "Pune, India"
+  date_start = "2015-06-22"
+  date_end = "2017-07-17"
+  description = """
+  • Development of Magellan- an internal web-based platform developed in Python and Django for functional analysts to view automated test results.
+
+  • Migration of MSSQL database in Stockholm and Pune to PostgreSQL for faster data retrieval and query optimization of Magellan by ~3 sec.
+
+  • Created test automation frameworks for SwiftReader and SwiftWriter teams and introduced them to CI and Magellan using Python, Django and Buildbots.
+  
+  Responsibilities included:
+  
+  * Programming
+  * Continuous Integration
+  * DevOps
+  * Collaboration
+"""
 
 +++

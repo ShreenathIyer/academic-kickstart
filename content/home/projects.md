@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Projects"
 subtitle = ""
@@ -12,7 +12,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+# folder = "project"
 
 # View.
 #   1 = List
@@ -43,10 +43,17 @@ filter_default = 0
 # [[filter]]
 #   name = "Deep Learning"
 #   tag = "Deep Learning"
-#
+# 
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
 
+[[projects]]
+  name = "Other"
+  tag = "Demo"
+
+[[filter]]
+  name = "Other"
+  tag = "Demo"
 +++
 
