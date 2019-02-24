@@ -6,7 +6,7 @@ name = "Shreenath Iyer"
 superuser = true
 
 # Role/position
-role = "Master's Student at UC Davis studying Computer Science. Also, Uncle Ram's nephew."
+role = "A Computer Science Master's Student at UC Davis | Amazon Alexa Prize 2018 Winner."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -78,6 +78,6 @@ interests = [
 
 I am a second year Master's student studying Computer Science at the University of California, Davis. My main areas of research include Distributed Systems and Blockchains. I am also an Amazon Alexa Prize 2018 winner. 
 
-I have worked for over two years at FIS Global as a Product Development Engineer with a special focus on Continuous Integration and DevOps. 
+I have worked for over two years at FIS Global as a Product Development Engineer with a special focus on Continuous Integration and DevOps. I also interned at Nokia Nuage Networks in the Summer of 2018. 
 
-When I am not working, I am either watching soccer or playing soccer or trying to figure out why people like going to the gym so much. 
+When I am not working, I am either watching soccer or playing soccer or in the gym- running. 
